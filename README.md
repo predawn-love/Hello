@@ -13,10 +13,10 @@
 ###### 3.2、
 我去了老师办公室，向助教询问，助教学长学姐说自己一般用命令行的git，于是他们教会了我如何
 运用命令行连接远程库，修改本地库以及同步等操作，还教会了我如何只同步单独的几个文件。
-![](./pictrue/GitConsole_1rd.png)
-![](./pictrue/GitConsole_2nd.png)
-![](./pictrue/GitConsole_3rd.png)
-![](./pictrue/GitConsole_4th.png)
+![](./picture/GitConsole1st.png)
+![](./picture/GitConsole2nd.png)
+![](./picture/GitConsole3rd.png)
+![](./picture/GitConsole4th.png)
 ###### 3.3、
 助教也不太清楚添加新项不知道该加什么，就看着老师的文件的小图标，
 一个一个对比发现一致后选择相符的，新建后还是无法成功调试。发现是少了一些头文件库的错误，我感觉自己能解决了，
